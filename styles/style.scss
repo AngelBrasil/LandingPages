@@ -39,7 +39,7 @@ body{
 
     .header-nav{
         display: flex;
-        justify-content: space-between;
+        justify-content: flex-end;
         align-items: center;
         padding: 20px 0;
     }
@@ -120,7 +120,7 @@ body{
                     background-color: #036db5;
             }
         }
-    }
+    }    
 }
 
 .main-benefits{
